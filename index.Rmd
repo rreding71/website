@@ -1,0 +1,24 @@
+---
+title: "SQL"
+output: html_document
+---
+
+# This is a first-level header
+## This is a second-level heaer
+### This is a thrid-level header
+
+For a paragraph just type normal
+
+* item 1
+* item 2
+* item 3
+* item 4
+
+column 1 | column 2
+---|---
+Phillies | national
+Yankees | american
+Cubs | national
+Red Sox | american
+
+<img src="th.jpg" width="300" />
