@@ -16,9 +16,9 @@ For a paragraph just type normal
 
 column 1 | column 2
 ---|---
-Phillies | national
-Yankees | american
-Cubs | national
-Red Sox | american
+Jaguars | AFC
+Bills | AFC
+Giants | NFC
+Panthers | NFC
 
 <img src="th.jpg" width="300" />
